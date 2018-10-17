@@ -1,8 +1,8 @@
 {
-    "name": "your-vendor-name/package-name",
-    "description": "A short description of what your package does",
+    "name": "yeeeeeeeeeeeeeeeeeeeeeame/paceeeee",
+    "description": "A shoehat your package does",
     "require": {
-        "php": "^5.3.3 || ^7.0",
-        "another-vendor/package": "1.*"
+        "php": "^5.0 || ^7.0",
+        "anofrdfdor/packarrge": "1.*"
     }
 }
